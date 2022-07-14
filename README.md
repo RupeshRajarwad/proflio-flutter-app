@@ -1,5 +1,9 @@
 # resume
 
+# Output
+
+![Untitled](https://user-images.githubusercontent.com/85639317/179000377-6d40231c-b7f0-4b9c-9fd8-3c44f0522663.png)
+
 A new Flutter project.
 
 ## Getting Started
